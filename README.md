@@ -2,4 +2,11 @@
 
 ## Screen Shots
 
-![sample 1](sample1.png "Sample 1")
+*Initial screen when the game starts*
+![start-game](design/start-game.png "Start Game")
+
+*Computer Wins*
+![computer-win](design/computer-win.png "Computer Wins")
+
+*Player Wins*
+![player-win](design/player-win.png "Player Wins")
